@@ -1,9 +1,9 @@
 [package]
-name = "clamav-client"
-version = "0.1.3"
-authors = ["Thorsten Blum"]
+name = "revolt_clamav-client"
+version = "0.1.4"
+authors = ["Thorsten Blum", "Paul Makles <insrt.uk>"]
 edition = "2018"
-repository = "https://github.com/toblux/rust-clamav-client"
+repository = "https://github.com/insertish/rust-clamav-client"
 description = "ClamAV client library"
 readme = "README.md"
 license = "MIT"

@@ -1,4 +1,4 @@
-use clamav_client::*;
+use revolt_clamav_client::*;
 
 #[cfg(target_family = "unix")]
 const TEST_SOCKET_PATH: &str = "/tmp/clamd.socket";
