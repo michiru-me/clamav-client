@@ -1,6 +1,6 @@
 [package]
 name = "clamav-client"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Thorsten Blum", "Paul Makles <insrt.uk>", "Luna Nova <luna@mint.lgbt>"]
 repository = "https://github.com/michiru-me/clamav-client"
