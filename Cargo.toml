@@ -1,10 +1,10 @@
 [package]
-name = "revolt_clamav-client"
-version = "0.1.5"
-authors = ["Thorsten Blum", "Paul Makles <insrt.uk>"]
-edition = "2018"
-repository = "https://github.com/insertish/rust-clamav-client"
-description = "ClamAV client library"
+name = "clamav-client"
+version = "0.1.0"
+edition = "2021"
+authors = ["Thorsten Blum", "Paul Makles <insrt.uk>", "Luna Nova <luna@mint.lgbt>"]
+repository = "https://github.com/michiru-me/clamav-client"
+description = "A Rust ClamAV client"
 readme = "README.md"
 license = "MIT"
-keywords = ["clamav", "clamd", "anitvirus"]
+keywords = ["clamav", "clamd", "antivirus"]
